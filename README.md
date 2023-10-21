@@ -1,5 +1,5 @@
 # SpamMAIL-NR
-### Este script en python te permite acortar enlaces (4 servicios desponibles), agregarle palabras propias a los enlaces, generar códigos QR a partir de un enlace, analiza y obtene la URL original de los enlaces acortados.  
+### Este script en python te permite acortar enlaces (4 servicios desponibles), agregarle palabras propias a los enlaces, generar códigos QR a partir de un enlace, analiza y obtiene la URL original de los enlaces acortados.  
 
 ------------
 
