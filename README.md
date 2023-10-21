@@ -1,5 +1,5 @@
 # SpamMAIL-NR
-### Herramienta desarrollada con el fin de poder acortar tus propios enlaces con mas de un servicio disponible, pasar las URLs a codigo QR y  escanear las que te parezcan sospechosas.
+### Este script en python te permite acortar enlaces (4 servicios desponibles), agregarle palabras propias a los enlaces, generar códigos QR a partir de un enlace, analizr y obtener la URL original de los enlaces acortados.  
 
 ------------
 
@@ -17,13 +17,10 @@
 # Comandos para la instalación
 - apt update && apt-get upgrade -y
 - apt install git
-- git clone https://github.com/Not-Risks/URLsource
+- git clone https://github.com/n4ss4u/URLsource
 - apt install python3
 - cd URLsource
 - pip install -r requirements.txt
 - python3 URLsource
 
 ------------
-
- # Comunidad de Telegram
-https://t.me/hackersAsperger
