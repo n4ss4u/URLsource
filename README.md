@@ -21,6 +21,6 @@
 - apt install python3
 - cd URLsource
 - pip install -r requirements.txt
-- python3 URLsource
+- python3 urlsource.py
 
 ------------
